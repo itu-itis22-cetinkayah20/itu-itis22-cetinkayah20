@@ -3,10 +3,10 @@ Hi there!
 I'm Hakan Çetinkaya, a 21-year-old computer engineering student at Istanbul Technical University (ITU) with a passion for software development, particularly in game and mobile app development.
 
 About Me
+
 I'm an enthusiastic and dedicated individual with a strong interest in exploring the world of software engineering. I'm always eager to learn new technologies and expand my knowledge base. Apart from my academic pursuits, I enjoy actively engaging in sports like football and martial arts.
 
 Software Interests
-
 
 My primary areas of interest in software development lie in game and mobile app development. I'm fascinated by the creative process involved in bringing ideas to life through interactive and engaging experiences. I'm particularly interested in exploring the potential of emerging technologies like augmented reality and virtual reality in game development.
 
