@@ -1,6 +1,6 @@
 Hi there! 
 
-I'm Hakan Çetinkaya, a 23-year-old computer engineering student at Istanbul Technical University (ITU) with a passion for software development, particularly in web development
+I'm Hakan Çetinkaya, a 23-year-old senior computer engineering student at Istanbul Technical University (ITU) with a passion for software development, particularly in web development
 
 About Me
 
